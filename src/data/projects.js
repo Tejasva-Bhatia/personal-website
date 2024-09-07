@@ -1,47 +1,46 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
+    title: 'movieRat',
     subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    link: 'https://github.com/jonlaoxyz/movierat?tab=readme-ov-file',
+    image: '/images/projects/movieRat.png',
+    date: '2024-02-16',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'MovieRat is a web application where users can discover, manage, and track movies '
+      + 'Users can explore trending and in-theater movies, add them to their watchlist, favorites, or mark them as watched. '
+      + 'The app also allows users to search for movies and curate their collections. ',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: 'passwordkeepR',
+    subtitle: 'Lighthouse Labs mid semester project',
+    link: 'https://github.com/jonlaoxyz/passwordkeepr',
+    image: '/images/projects/passwordkeepR.png',
+    date: '2023-12-23',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'Developed an organizational password management application designed to securely store and manage passwords for various departments within a company. '
+      + 'The application allows authorized employees to access necessary passwords, ensuring seamless business operations even when the primary password holder is unavailable. '
+      + 'This tool enhances operational efficiency by reducing downtime and the dependency on single individuals for critical credentials.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'PhotoLabs',
+    subtitle: 'Maintain Collection of photos',
+    link: 'https://github.com/Tejasva-Bhatia/photolabs-starter',
+    image: '/images/projects/photolabs.png',
+    date: '2023-11-28',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      'Platform for users to explore and interact with a collection of photos. '
+      + 'Users can view photos, toggle a details modal, and mark their favorite photos. ',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    title: 'Tweeter',
+    subtitle: 'Cheap knockoff of Twitter',
+    link: 'https://github.com/Tejasva-Bhatia/tweeter',
+    image: '/images/projects/tweeter.png',
+    date: '2023-11-15',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'Tweeter is a simple Twitter clone project built with HTML, CSS, jQuery, and Node.js '
+      + 'It allows users to compose and post tweets with a character limit and view existing tweets. ',
   },
 ];
 
