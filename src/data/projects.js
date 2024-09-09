@@ -42,6 +42,19 @@ const data = [
       'Tweeter is a simple Twitter clone project built with HTML, CSS, jQuery, and Node.js '
       + 'It allows users to compose and post tweets with a character limit and view existing tweets. ',
   },
+  {
+    title: 'TinyApp',
+    subtitle: 'Cheap knockoff of Twitter',
+    link: 'https://github.com/Tejasva-Bhatia/tweeter',
+    image: '/images/projects/tinyApp.png',
+    date: '2023-11-15',
+    desc:
+      'TinyApp is a full stack web application built with Node and Express that allows users to shorten long URLs into more manageable and shareable links.'
+      + 'Users can register for an account, log in, and then create and manage their shortened URLs.'
+      + 'The application provides functionality to edit and delete URLs, as well as view a list of URLs associated with their account '
+      + 'Additionally, TinyApp provides features for user authentication, password hashing to ensure the security of user accounts. '
+      + 'It\'s a practical tool for simplifying long URLs and tracking links in a user-friendly way. ',
+  },
 ];
 
 export default data;
