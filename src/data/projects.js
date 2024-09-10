@@ -55,6 +55,38 @@ const data = [
       + 'Additionally, TinyApp provides features for user authentication, password hashing to ensure the security of user accounts. '
       + 'It\'s a practical tool for simplifying long URLs and tracking links in a user-friendly way. ',
   },
+  {
+    title: 'Lotide',
+    subtitle: 'Mini clone of the Lodash library',
+    link: 'https://github.com/Tejasva-Bhatia/lotide',
+    image: '/images/projects/lotide.png',
+    date: '2023-11-05',
+    desc:
+      'A mini clone of the Lodash library, created to deepen my understanding of utility libraries'
+      + 'This project includes essential functions for array and object manipulation, string analysis, and more, demonstrating proficiency in JavaScript and functional programming.'
+      + 'It is designed for educational purposes and showcases custom implementations of common Lodash functionalities. ',
+  },
+  {
+    title: 'Detection of Fake Online Recruitment Using Machine Learning Techniques',
+    subtitle: 'Paper published in IEEE on fake job detection',
+    link: 'https://ieeexplore.ieee.org/document/10074276',
+    image: '/images/projects/Fake-Job-Detection.png',
+    date: '2022-12-17',
+    desc:
+      'I developed a machine learning model to detect fraudulent job postings, leveraging data balancing techniques like "Adaptive Sympathetic" and "SMOTE" alongside TF-IDF for feature extraction.'
+      + 'Using the EMSCAD dataset, which includes around 18,000 job listings, the model was trained with Random Forest and k-nearest classifiers.'
+      + 'The proposed approach outperformed existing models in terms of recall, precision, and F1-scores. ',
+  },
+  {
+    title: 'Voice-Controlled Learning Assistant Box',
+    subtitle: 'AI to prepare for Quiz Tests',
+    image: '/images/projects/VCLAB.png',
+    date: '2019-12-17',
+    desc:
+      'Developed an AI-powered learning assistant to enhance quiz preparation.'
+      + 'The system interacts with users through voice commands, asking for the subject they wish to study and providing relevant quiz questions.'
+      + 'Leveraged Google AIY Voice Kit with Raspberry Pi to create an interactive and efficient study aid. ',
+  },
 ];
 
 export default data;
