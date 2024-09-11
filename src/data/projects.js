@@ -62,7 +62,7 @@ const data = [
     image: '/images/projects/lotide.png',
     date: '2023-11-05',
     desc:
-      'A mini clone of the Lodash library, created to deepen my understanding of utility libraries'
+      'A mini clone of the Lodash library, created to deepen my understanding of utility libraries.'
       + 'This project includes essential functions for array and object manipulation, string analysis, and more, demonstrating proficiency in JavaScript and functional programming.'
       + 'It is designed for educational purposes and showcases custom implementations of common Lodash functionalities. ',
   },
@@ -76,6 +76,17 @@ const data = [
       'I developed a machine learning model to detect fraudulent job postings, leveraging data balancing techniques like "Adaptive Sympathetic" and "SMOTE" alongside TF-IDF for feature extraction.'
       + 'Using the EMSCAD dataset, which includes around 18,000 job listings, the model was trained with Random Forest and k-nearest classifiers.'
       + 'The proposed approach outperformed existing models in terms of recall, precision, and F1-scores. ',
+  },
+  {
+    title: 'Jungle',
+    subtitle: 'Mini e-commerce built with Rails',
+    link: 'https://github.com/Tejasva-Bhatia/lotide',
+    image: '/images/projects/Jungle-Landing-Page.png',
+    date: '2024-01-25',
+    desc:
+      'Jungle is a mini e-commerce app built with Rails 6.1, featuring dynamic product management, user authentication, and Stripe integration for payments.'
+      + 'Implemented a sold out badge, admin category management, and secure admin access. '
+      + 'Enhanced user experience with friendly messages for empty carts and comprehensive order details. ',
   },
   {
     title: 'Voice-Controlled Learning Assistant Box',
