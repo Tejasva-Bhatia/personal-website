@@ -1,11 +1,11 @@
 {
-  "name": "personal-site",
+  "name": "personal-website",
   "version": "4.0.0",
-  "homepage": "https://mldangelo.com/",
+  "homepage": "https://tejasva-bhatia.netlify.app/",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mldangelo/personal-site.git"
+    "url": "https://github.com/Tejasva-Bhatia/personal-website"
   },
   "engines": {
     "node": ">=16.x"
