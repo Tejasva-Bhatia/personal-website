@@ -30,7 +30,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Tejasva Bhatia <Link to="/">bhatiatejasva.com</Link>.</p>
+      <p className="copyright">&copy; Tejasva Bhatia <Link to="/">tejasva-bhatia.netlify.app</Link>.</p>
     </section>
   </section>
 );
