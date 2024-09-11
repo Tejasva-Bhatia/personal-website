@@ -11,7 +11,7 @@ const skills = [
   },
   {
     title: 'React',
-    competency: 2,
+    competency: 4,
     category: ['Web Development', 'Javascript'],
   },
   {
@@ -96,7 +96,7 @@ const skills = [
   },
   {
     title: 'Ruby',
-    competency: 2,
+    competency: 3,
     category: ['Languages'],
   },
   {
