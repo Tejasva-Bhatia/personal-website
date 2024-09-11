@@ -61,6 +61,11 @@ const data = [
     label: 'Preferred coding language',
     value: 'C++ 💻',
   },
+  {
+    key: 'Most Used Emoji',
+    label: 'Most Used Emoji',
+    value: '🤣',
+  },
 ];
 
 export default data;
