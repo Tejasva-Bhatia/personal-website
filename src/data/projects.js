@@ -3,7 +3,7 @@ const data = [
   {
     title: 'movieRat',
     subtitle: '2015 BVP Hackathon',
-    link: 'https://github.com/jonlaoxyz/movierat?tab=readme-ov-file',
+    link: 'https://github.com/jonlaoxyz/movierat',
     image: '/images/projects/movieRat.png',
     date: '2024-02-16',
     desc:
@@ -80,7 +80,7 @@ const data = [
   {
     title: 'Jungle',
     subtitle: 'Mini e-commerce built with Rails',
-    link: 'https://github.com/Tejasva-Bhatia/lotide',
+    link: 'https://github.com/Tejasva-Bhatia/jungle-rails',
     image: '/images/projects/Jungle-Landing-Page.png',
     date: '2024-01-25',
     desc:
