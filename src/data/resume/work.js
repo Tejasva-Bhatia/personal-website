@@ -32,7 +32,7 @@ const work = [
     position: 'Software Engineer',
     url: 'https://pragatiinds.com/',
     startDate: '2019-08-01',
-    endDate: '2020-09-01',
+    endDate: new Date().toISOString().split('T')[0],
     summary: `Pragati Industries is a company established in the 
     manufacturing sector which has a main focuses on delivering innovative solutions and products to meet industry demands. As a Software Engineer at Pragati Industries, I was part of a dynamic team dedicated to integrating technology into their operations and services.`,
     highlights: [
